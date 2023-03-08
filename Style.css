@@ -1,0 +1,13 @@
+table, th, td
+ { font-weight:400; border-collapse: collapse;
+ font-family: Arial, Helvetica, sans-serif; border:1px solid black; 
+}
+ th 
+ { 
+    font-weight: bolder ; border-collapse: collapse; font-family: Arial, Helvetica, sans-serif; border:1px solid black; 
+} 
+#azu
+ { 
+    background-color: rgba(142,169,219,255); 
+}
+ #verde { background-color: #92d050; }
